@@ -1,0 +1,10 @@
+Acknowledgments:
+
+https://www.tutorialspoint.com/java/util/hashset_clone.htm
+
+http://stackoverflow.com/questions/12455737/how-to-iterate-over-a-set-hashset-without-a-iterator
+
+http://javarevisited.blogspot.com/2016/01/3-ways-to-loop-over-set-or-hashset-in-java.html
+
+https://docs.oracle.com/javase/8/docs/api/java/util/Set.html#toArray--
+
